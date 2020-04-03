@@ -15,11 +15,10 @@ module.exports = {
       resolve: '@kentico/gatsby-source-kontent',
       options: {
         deliveryClientConfig: {
-          projectId: '00676a8d-358c-0084-f2f2-33ed466c480a', // Fill in your Project ID
+          projectId: 'ccdcfb1f-e663-01a6-6e5a-b6bf2d4bfbf8',
         },
         languageCodenames: [
-          'en-US', // Or the languages in your project (Project settings -> Localization)
-          'cs-CZ',
+          'en-US',
         ],
       },
     },
